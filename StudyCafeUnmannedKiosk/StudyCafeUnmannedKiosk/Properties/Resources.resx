@@ -117,26 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="beautiful_nature_wallpaper08" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\beautiful_nature_wallpaper08.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="beautiful_nature_wallpaper10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\beautiful_nature_wallpaper10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="HD 바탕화면 8" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HD 바탕화면 8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="HD 바탕화면 10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\HD 바탕화면 10.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="beautiful_nature_wallpaper14" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\beautiful_nature_wallpaper14.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="beautiful_nature_wallpaper13" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\beautiful_nature_wallpaper13.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="beautiful_nature_wallpaper081" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\beautiful_nature_wallpaper08.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>

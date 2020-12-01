@@ -8,3 +8,13 @@ C:\Users\User\Desktop\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\St
 C:\Users\User\Desktop\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.exe
 C:\Users\User\Desktop\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.pdb
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csprojAssemblyReference.cache
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.Form1.resources
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.exe
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.pdb
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.exe.config
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.exe
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.pdb
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.Properties.Resources.resources
+C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csproj.CoreCompileInputs.cache
