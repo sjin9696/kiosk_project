@@ -31,7 +31,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel9 = new System.Windows.Forms.Panel();
-            this.label7 = new System.Windows.Forms.Label();
+            this.timer = new System.Windows.Forms.Label();
             this.panel8 = new System.Windows.Forms.Panel();
             this.label10 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
@@ -100,23 +100,23 @@
             // panel9
             // 
             this.panel9.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.panel9.Controls.Add(this.label7);
+            this.panel9.Controls.Add(this.timer);
             this.panel9.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel9.Location = new System.Drawing.Point(360, 0);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(164, 68);
             this.panel9.TabIndex = 3;
             // 
-            // label7
+            // timer
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.Color.Gold;
-            this.label7.Location = new System.Drawing.Point(20, 20);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(131, 32);
-            this.label7.TabIndex = 2;
-            this.label7.Text = "16 : 16 : 16";
+            this.timer.AutoSize = true;
+            this.timer.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.timer.ForeColor = System.Drawing.Color.Gold;
+            this.timer.Location = new System.Drawing.Point(20, 20);
+            this.timer.Name = "timer";
+            this.timer.Size = new System.Drawing.Size(131, 32);
+            this.timer.TabIndex = 2;
+            this.timer.Text = "16 : 16 : 16";
             // 
             // panel8
             // 
@@ -668,7 +668,7 @@
         private System.Windows.Forms.Button button13;
         private System.Windows.Forms.Button button11;
         private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label timer;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label8;
