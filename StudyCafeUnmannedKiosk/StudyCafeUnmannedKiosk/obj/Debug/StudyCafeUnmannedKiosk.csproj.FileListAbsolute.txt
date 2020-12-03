@@ -18,13 +18,7 @@ C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKios
 C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.pdb
 C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.Properties.Resources.resources
 C:\Users\User\Desktop\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csproj.CoreCompileInputs.cache
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.exe.config
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.exe
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.pdb
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csprojAssemblyReference.cache
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.Form1.resources
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.Properties.Resources.resources
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csproj.GenerateResource.cache
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csproj.CoreCompileInputs.cache
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.exe
-C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.pdb
+C:\Users\User\Desktop\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.screen.UCDetailedLocker.resources
+C:\Users\User\Desktop\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.screen.UCDetailedRoom.resources
+C:\Users\User\Desktop\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.screen.UCDetailedSeating.resources
+C:\Users\User\Desktop\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.screen.UCMain.resources

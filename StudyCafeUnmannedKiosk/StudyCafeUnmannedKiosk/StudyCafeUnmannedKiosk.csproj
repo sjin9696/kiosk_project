@@ -52,21 +52,57 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="screen\Home.cs">
+    <Compile Include="screen\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="screen\Home.Designer.cs">
-      <DependentUpon>Home.cs</DependentUpon>
+    <Compile Include="screen\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="screen\Home.resx">
-      <DependentUpon>Home.cs</DependentUpon>
+    <Compile Include="screen\UCDetailedLocker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="screen\UCDetailedLocker.Designer.cs">
+      <DependentUpon>UCDetailedLocker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="screen\UCDetailedRoom.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="screen\UCDetailedRoom.Designer.cs">
+      <DependentUpon>UCDetailedRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="screen\UCDetailedSeating.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="screen\UCDetailedSeating.Designer.cs">
+      <DependentUpon>UCDetailedSeating.cs</DependentUpon>
+    </Compile>
+    <Compile Include="screen\UCMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="screen\UCMain.Designer.cs">
+      <DependentUpon>UCMain.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="screen\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screen\UCDetailedLocker.resx">
+      <DependentUpon>UCDetailedLocker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screen\UCDetailedRoom.resx">
+      <DependentUpon>UCDetailedRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screen\UCDetailedSeating.resx">
+      <DependentUpon>UCDetailedSeating.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screen\UCMain.resx">
+      <DependentUpon>UCMain.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -82,11 +118,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="image\" />
     <Folder Include="Resources\" />
     <Folder Include="resource\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="image\BackImgWhite.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
