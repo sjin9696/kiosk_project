@@ -52,39 +52,39 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="screen\Form1.cs">
+    <Compile Include="src\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="screen\Form1.Designer.cs">
+    <Compile Include="src\Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="screen\UCDetailedLocker.cs">
+    <Compile Include="src\UCDetailedLocker.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="screen\UCDetailedLocker.Designer.cs">
+    <Compile Include="src\UCDetailedLocker.Designer.cs">
       <DependentUpon>UCDetailedLocker.cs</DependentUpon>
     </Compile>
-    <Compile Include="screen\UCDetailedRoom.cs">
+    <Compile Include="src\UCDetailedRoom.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="screen\UCDetailedRoom.Designer.cs">
+    <Compile Include="src\UCDetailedRoom.Designer.cs">
       <DependentUpon>UCDetailedRoom.cs</DependentUpon>
     </Compile>
-    <Compile Include="screen\UCDetailedSeating.cs">
+    <Compile Include="src\UCDetailedSeating.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="screen\UCDetailedSeating.Designer.cs">
+    <Compile Include="src\UCDetailedSeating.Designer.cs">
       <DependentUpon>UCDetailedSeating.cs</DependentUpon>
     </Compile>
-    <Compile Include="screen\UCMain.cs">
+    <Compile Include="src\UCMain.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="screen\UCMain.Designer.cs">
+    <Compile Include="src\UCMain.Designer.cs">
       <DependentUpon>UCMain.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="screen\Form1.resx">
+    <EmbeddedResource Include="src\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -92,16 +92,16 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="screen\UCDetailedLocker.resx">
+    <EmbeddedResource Include="src\UCDetailedLocker.resx">
       <DependentUpon>UCDetailedLocker.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="screen\UCDetailedRoom.resx">
+    <EmbeddedResource Include="src\UCDetailedRoom.resx">
       <DependentUpon>UCDetailedRoom.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="screen\UCDetailedSeating.resx">
+    <EmbeddedResource Include="src\UCDetailedSeating.resx">
       <DependentUpon>UCDetailedSeating.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="screen\UCMain.resx">
+    <EmbeddedResource Include="src\UCMain.resx">
       <DependentUpon>UCMain.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -118,8 +118,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="image\" />
-    <Folder Include="Resources\" />
     <Folder Include="resource\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
