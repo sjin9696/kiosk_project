@@ -36,3 +36,7 @@ C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCa
 C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.csproj.CoreCompileInputs.cache
 C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.exe
 C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.pdb
+C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.exe.manifest
+C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\bin\Debug\StudyCafeUnmannedKiosk.application
+C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.exe.manifest
+C:\kiosk_project\StudyCafeUnmannedKiosk\StudyCafeUnmannedKiosk\obj\Debug\StudyCafeUnmannedKiosk.application
