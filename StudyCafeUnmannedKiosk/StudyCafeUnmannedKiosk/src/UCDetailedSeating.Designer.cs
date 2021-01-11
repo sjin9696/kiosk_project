@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button38 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel6 = new System.Windows.Forms.Panel();
             this.button35 = new System.Windows.Forms.Button();
@@ -78,12 +79,23 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.DarkGray;
+            this.panel1.Controls.Add(this.button38);
             this.panel1.Controls.Add(this.panel2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(752, 985);
             this.panel1.TabIndex = 0;
+            // 
+            // button38
+            // 
+            this.button38.Location = new System.Drawing.Point(54, 26);
+            this.button38.Name = "button38";
+            this.button38.Size = new System.Drawing.Size(106, 45);
+            this.button38.TabIndex = 1;
+            this.button38.Text = "HOME";
+            this.button38.UseVisualStyleBackColor = true;
+            this.button38.Click += new System.EventHandler(this.buttonHome_Click);
             // 
             // panel2
             // 
@@ -642,5 +654,6 @@
         private System.Windows.Forms.Button button14;
         private System.Windows.Forms.Panel panel5;
         private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Button button38;
     }
 }

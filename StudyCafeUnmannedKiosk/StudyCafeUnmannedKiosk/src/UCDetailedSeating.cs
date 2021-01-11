@@ -16,7 +16,10 @@ namespace StudyCafeUnmannedKiosk.screen
         {
             InitializeComponent();
         }
-
+        private void buttonHome_Click(object sender, EventArgs e)
+        {
+            this.Visible = false;
+        }
         private void button3_Click(object sender, EventArgs e)
         {
 
@@ -76,5 +79,7 @@ namespace StudyCafeUnmannedKiosk.screen
         {
 
         }
+
+       
     }
 }

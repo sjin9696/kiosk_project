@@ -16,6 +16,8 @@ namespace StudyCafeUnmannedKiosk.screen
         public UCMain()
         {
             InitializeComponent();
+            ucDetailedSeating1.BringToFront();
+            ucDetailedSeating1.Visible = false;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -25,7 +27,7 @@ namespace StudyCafeUnmannedKiosk.screen
 
         private void btnDetailedSeating_Click(object sender, EventArgs e)
         {
-            ucDetailedSeating1.BringToFront();
+            ucDetailedSeating1.Visible = true;
         }
     }
 }
